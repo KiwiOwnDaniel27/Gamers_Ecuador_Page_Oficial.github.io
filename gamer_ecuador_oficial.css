@@ -179,11 +179,11 @@ a {
 .redes{
     font-size: 70px;
     display: contents;
-    color: white;
+    color: #ffff;
 }
 
 .perfil{
-    color: blue;
+    color: #0000FF;
 }
 
 .footer{
@@ -262,6 +262,7 @@ a{
 .description-accesories{
     font-size: 23px;
 }
+
 
 
 
