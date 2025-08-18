@@ -121,7 +121,7 @@ h2{
     }
 }
 
-a {
+.icons {
     all: unset;
     cursor: pointer;      
     color: #55883B;
@@ -262,6 +262,7 @@ a{
 .description-accesories{
     font-size: 23px;
 }
+
 
 
 
