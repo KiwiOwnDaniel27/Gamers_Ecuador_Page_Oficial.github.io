@@ -179,6 +179,11 @@ a {
 .redes{
     font-size: 70px;
     display: contents;
+    color: white;
+}
+
+.perfil{
+    color: blue;
 }
 
 .footer{
@@ -257,6 +262,7 @@ a{
 .description-accesories{
     font-size: 23px;
 }
+
 
 
 
