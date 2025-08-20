@@ -263,6 +263,19 @@ a{
     font-size: 23px;
 }
 
+.cuenca{
+    border-radius: 27px;
+}
+
+.direction{
+    display: flex;
+}
+
+.map{
+    border-radius: 27px;
+    margin-left: 27px;
+}
+
 
 
 
