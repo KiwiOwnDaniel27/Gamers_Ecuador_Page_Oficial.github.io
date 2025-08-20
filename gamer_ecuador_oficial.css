@@ -18,6 +18,11 @@ h2{
     font-style: oblique;
 }
 
+h3{
+    color: white;
+    text-align: center;
+}
+
 .header{
     display: flex;
     align-items: center;
@@ -282,8 +287,4 @@ a{
     font-size: 27px;
     text-align: center;
 }
-
-
-
-
 
