@@ -227,6 +227,7 @@ a{
 
 .titule-logoo{
     color: #55883B;
+    margin-left: 9px
 }
 
 .pay-metod{
@@ -274,15 +275,13 @@ a{
 .map{
     border-radius: 27px;
     margin-left: 27px;
+    margin-top: 6px;
 }
 
 .tienda-dir{
     font-size: 27px;
     text-align: center;
 }
-
-
-
 
 
 
