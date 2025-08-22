@@ -301,7 +301,7 @@ p{
 }
 
 .slider-box{
-    width: 1200px;
+    width: 1000px;
     height: auto;
     overflow: hidden;
 }
@@ -309,12 +309,10 @@ p{
 .slider-box ul{
     display: flex;
     padding: 0;
-    width: 400%;
     animation: slide 20s infinite alternate ease-in-out;
 }
 
 .slider-box li{
-    width: 100%;
     list-style: none;
     position: relative;
 }
@@ -332,6 +330,7 @@ p{
     75% { margin-left: -300}
     100% { margin-left: -300}
 }
+
 
 
 
