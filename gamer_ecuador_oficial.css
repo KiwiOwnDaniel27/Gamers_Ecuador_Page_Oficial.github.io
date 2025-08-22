@@ -301,6 +301,8 @@ p{
 }
 
 .slider-box{
+    width: 1200px;
+    height: auto;
     overflow: hidden;
 }
 
@@ -330,5 +332,6 @@ p{
     75% { margin-left: -300}
     100% { margin-left: -300}
 }
+
 
 
