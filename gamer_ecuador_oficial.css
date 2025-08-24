@@ -308,7 +308,7 @@ p{
     display: flex;
     padding: 0;
     width: 400%;
-    animation: slide 10s infinite alternate ease-in-out;
+    animation: slide 16s infinite alternate ease-in-out;
 }
 
 .slider-box li{
@@ -337,6 +337,7 @@ p{
     75%{margin-left: -300%;}
     100%{margin-left: -300%;}
 }
+
 
 
 
