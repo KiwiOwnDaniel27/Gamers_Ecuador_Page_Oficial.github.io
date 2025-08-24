@@ -99,6 +99,7 @@ h3{
     overflow: hidden;
 }
 
+
 .slider .slide-track{
     display: flex;
     animation: scroll 40s linear infinite;
@@ -167,18 +168,14 @@ h3{
 }
 
 .history .description-history{
-    margin-top: 100px;
-    display: flex;
+    margin-top: -625px;
+    margin-left: 800px;
 }
 
 .description{
     margin-left: 27px;
     font-size: 27px;
     text-align: center;
-}
-
-.img-history{
-    border-radius: 27px;
 }
 
 .redes{
@@ -301,34 +298,44 @@ p{
 }
 
 .slider-box{
-    width: 1000px;
+    width: 1280px;
     height: auto;
+    margin: 50px auto 0;
     overflow: hidden;
 }
 
-.slider-box ul{
+.slider-box ul {
     display: flex;
     padding: 0;
-    animation: slide 20s infinite alternate ease-in-out;
+    width: 400%;
+    animation: slide 10s infinite alternate ease-in-out;
 }
 
 .slider-box li{
+    width: 75%;
     list-style: none;
     position: relative;
 }
 
-@keyframes slide{
-    0% { margin-left: 0}
-    20% { margin-left: 0}
+.slider-box img{
+    border-radius: 27px;
+    width: 800px;
+    height: 600px;
+}
 
-    25% { margin-left: -100}
-    45% { margin-left: -100}
 
-    50% { margin-left: -200}
-    70% { margin-left: -200}
+@keyframes slide {
+    0% {margin-left: 0;}
+    20% {margin-left: 0;}
 
-    75% { margin-left: -300}
-    100% { margin-left: -300}
+    25%{margin-left: -100%;}
+    45%{margin-left: -100%;}
+
+    50%{margin-left: -200%;}
+    70%{margin-left: -200%;}
+
+    75%{margin-left: -300%;}
+    100%{margin-left: -300%;}
 }
 
 
