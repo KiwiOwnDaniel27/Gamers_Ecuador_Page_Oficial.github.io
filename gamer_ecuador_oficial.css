@@ -196,6 +196,13 @@ h3{
     
 }
 
+.foooter{
+    margin-top: 50px;
+    display: flex;
+    background-color:  #C1E899;
+    border-radius: 27px;
+}
+
 .about, .bought, .help, .comunnity{
     text-align: center;
     margin-left: 30px;
@@ -519,6 +526,12 @@ p{
     font-size: 20px;
 }
 
+.expecificacionessss{
+    margin-left: 720px;
+    margin-top: -400px;
+    font-size: 20px;
+}
+
 .descuento{
     display: flex;
     font-size: 27px;
@@ -606,6 +619,54 @@ p{
     padding: 30px;
 }
 
+.envioooos{
+    margin-top: -530px;
+    margin-left: -550px;
+    font-size: 16px;
+    background: #C1E899;
+    border-radius: 27px;
+    width: 450px;
+    height: 725px;
+    text-align: justify;
+    padding: 30px;
+}
+
+.enviosss{
+    margin-top: -275px;
+    margin-left: 170px;
+    font-size: 16px;
+    background: #C1E899;
+    border-radius: 27px;
+    width: 450px;
+    height: 725px;
+    text-align: justify;
+    padding: 30px;
+}
+
+.enviooooos{
+    margin-top: -275px;
+    margin-left: 170px;
+    font-size: 16px;
+    background: #C1E899;
+    border-radius: 27px;
+    width: 450px;
+    height: 725px;
+    text-align: justify;
+    padding: 30px;
+}
+
+.enviios{
+    margin-top: -185px;
+    margin-left: 170px;
+    font-size: 16px;
+    background: #C1E899;
+    border-radius: 27px;
+    width: 450px;
+    height: 725px;
+    text-align: justify;
+    padding: 30px;
+}
+
 .envios h1{
     color: #55883B;
     -webkit-text-stroke: 0.9px #55883B;
@@ -641,6 +702,21 @@ p{
     -webkit-text-stroke-width: 0.9px;
     -webkit-text-stroke-color:  #000000;
 }
+
+.enviooooos h1{
+    color: #55883B;
+    -webkit-text-stroke: 0.9px #55883B;
+    -webkit-text-stroke-width: 0.9px;
+    -webkit-text-stroke-color:  #000000;
+}
+
+.enviios h1{
+    color: #55883B;
+    -webkit-text-stroke: 0.9px #55883B;
+    -webkit-text-stroke-width: 0.9px;
+    -webkit-text-stroke-color:  #000000;
+}
+
 
 
 
