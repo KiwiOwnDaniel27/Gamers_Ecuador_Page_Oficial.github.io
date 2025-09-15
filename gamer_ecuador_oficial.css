@@ -814,7 +814,7 @@ p{
     }
 
     .slider{
-        margin-top: -600px;
+        margin-top: -200px;
         margin-left: 50px;
         width: 1250px;
         height: 350px;
@@ -844,7 +844,7 @@ p{
         margin-top: 700px;
         margin-right: -250px;
         margin-left: -700px;
-        font-size: 80px;
+        font-size: 40px;
     }
 
 
@@ -870,7 +870,7 @@ p{
         width: 400px;
         height: 600px;
         margin-top: -80px;
-    }
+    }   
 
     .redes{
         font-size: 250px;
@@ -878,7 +878,7 @@ p{
 
     .tienda-dir{
         margin-top: -200px;
-        font-size: 50px;
+        font-size: 60px;
         text-align: center;
         margin-left: 200px;
         width: 950px;
@@ -892,7 +892,11 @@ p{
         display: block;
         margin-left: 0px;
     }
-
+    .cuenca{
+        width: 1300px;
+        margin-left: 20px; 
+    }
+    
     .img-direction img{
         width: 1300px;
         margin-left: 20px;
@@ -909,7 +913,70 @@ p{
     }
 
     .footer{
-        width: 1350px;
+        width: 1500px;
+    }
+
+    .about h1{
+        font-size: 40px;
+        margin-left: 90px;
+    }
+
+    .about p{
+        font-size: 22px;
+    }
+
+    .bought h1{
+        font-size: 40px;
+        margin-left: 130px;
+    }
+
+    .bought p{
+        font-size: 22px;
+        margin-left: 100px;
+    }
+
+    .help h1{
+        font-size: 40px;
+        margin-left: 100px;
+    }
+
+    .help p{
+        font-size: 22px;
+        margin-left: 100px;
+    }
+
+    .comunnity h1{
+        font-size: 40px;
+        margin-left: 130px;
+    }
+
+    .comunnity p{
+        font-size: 22px;
+        margin-left: 130px;
+    }
+
+    .comunnities{
+        margin-top: 350px;
+        margin-left: -375px;
+    }
+
+    .comunnities h1{
+        font-size: 50px;
+    }
+
+    .comunnities img{
+        width: 130px;
+    }
+
+    .logoo{
+        margin-top: 350px;
+        margin-left: -1300px;
+    }
+
+    .pay-metod{
+        margin-top: 550px;
+        margin-left: -440px;
+        font-size: 10px;
     }
 }
 
