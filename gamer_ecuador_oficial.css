@@ -164,7 +164,7 @@ h3{
 }
 
 .icon{
-    border: 2px solid #black;
+    border: 2px solid #000;
 }
 
 .history .description-history{
@@ -759,3 +759,166 @@ p{
 .contenedor-producto .thumbnail_contenedor .thumbnail:hover{
     opacity: 1;
 }
+
+@media (max-width: 1200px) {
+
+    .header{
+        display: flex;
+        width: 1200px;
+        height: 900px;
+        margin-top: -300px;
+        margin-left: 0px;
+    }
+
+    .logo{
+        width: 225px;
+    }
+
+    .titule-logo{
+        width: 400px;
+        font-size: 50px;
+        margin-right: -400px;
+    }
+
+    .research{
+        font-size: 30px;
+        margin-top: 400px;
+        margin-left: auto;
+        margin-right: -400px;
+        width: 1000px;
+    }
+
+    .img-pay{
+        width: 90px;
+        height: 100px;
+        margin-right: 30px;
+    }
+
+    .titule-pay{
+        width: 400px;
+        font-size: 40px;
+        margin-right: 80px;
+    }
+
+    .opcion-pay{
+        margin-right: -150px;
+    }
+
+    .user{
+        display: none;
+    }
+
+    .container{
+        margin-top: -350px;
+        margin-left: 200px;
+    }
+
+    .slider{
+        margin-top: -600px;
+        margin-left: 50px;
+        width: 1250px;
+        height: 350px;
+    }
+
+    .slider .slide-track{
+        display: flex;
+        animation: scroll 40s linear infinite;
+        -webkit-animation: scroll 35s linear infinite;
+        width: calc(200px * 14);
+    }
+
+
+    .slide h3{
+        font-size: 30px;
+    }
+
+    .slide img{
+        width: 180px;
+    }
+
+    .slide{
+        margin-left: 100px;
+    }
+
+    .description{
+        margin-top: 700px;
+        margin-right: -250px;
+        margin-left: -700px;
+        font-size: 80px;
+    }
+
+
+    .slider-box{
+        margin-left: 260px;
+        width: 1000px;
+    }
+
+    .slider-box img{
+        width: 800px;
+        height: 800px;
+    }
+
+    .titule-categ{
+        font-size: 80px;
+    }
+
+    .categ h3{
+        font-size: 40px;
+    }
+
+    .categ img{
+        width: 400px;
+        height: 600px;
+        margin-top: -80px;
+    }
+
+    .redes{
+        font-size: 250px;
+    }
+
+    .tienda-dir{
+        margin-top: -200px;
+        font-size: 50px;
+        text-align: center;
+        margin-left: 200px;
+        width: 950px;
+    }
+
+    .tienda-dir br{
+        display: none;
+    }
+
+    .direction{
+        display: block;
+        margin-left: 0px;
+    }
+
+    .img-direction img{
+        width: 1300px;
+        margin-left: 20px;
+    }
+
+    .map{
+        width: 1300px;
+
+    }
+
+    .caracteristica{
+        font-size: 40px;
+        margin-left: 400px;
+    }
+
+    .footer{
+        width: 1350px;
+    }
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 480px) {
+    
+}
+
+
