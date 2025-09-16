@@ -809,12 +809,12 @@ p{
     }
 
     .container{
-        margin-top: -250px;
+        margin-top: -150px;
         margin-left: 250px;
     }
 
     .slider{
-        margin-top: -425px;
+        margin-top: -300px;
         margin-left: 0px;
         width: 1500px;
         height: 300px;
@@ -990,5 +990,4 @@ p{
 @media (max-width: 480px) {
     
 }
-
 
