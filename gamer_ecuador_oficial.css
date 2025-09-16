@@ -814,7 +814,7 @@ p{
     }
 
     .slider{
-        margin-top: -75px;
+        margin-top: -175px;
         margin-left: 0px;
         width: 1500px;
         height: 300px;
@@ -878,7 +878,7 @@ p{
     
 
     .tienda-dir{
-        margin-top: -200px;
+        margin-top: -100px;
         font-size: 70px;
         text-align: center;
         margin-left: 20px;
@@ -894,7 +894,7 @@ p{
         margin-left: 0px;
     }
     .cuenca{
-        width: 1300px;
+        width: 1400px;
         margin-left: 20px; 
     }
     
@@ -958,29 +958,37 @@ p{
     }
 
     .comunnities{
-        margin-top: 490px;
-        margin-left: -400px;
+        margin-top: 575px;
+        margin-left: -450px;
     }
 
     .comunnities h1{
-        font-size: 50px;
+        font-size: 60px;
     }
 
     .comunnities img{
-        width: 130px;
+        width: 160px;
     }
 
     .logoo{
-        margin-top: 675px;
+        margin-top: 825px;
         margin-left: -1400px;
-        font-size: 25px;
+        font-size: 30px;
+        margin-bottom: 50px;
     }
 
     .pay-metod{
         margin-top: 425px;
-        margin-left: -670px;
-        font-size: 25px;
+        margin-left: -825px;
+        font-size: 35px;
+        width: 800px;
+        height: 100px;
     }
+
+    .pay-metod img{
+        width: 150px;
+    }
+
 }
 
 @media (max-width: 768px) {
