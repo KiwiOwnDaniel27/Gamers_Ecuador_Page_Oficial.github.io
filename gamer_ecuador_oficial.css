@@ -813,7 +813,7 @@ p{
 
     .container{
         position: absolute;
-        top: 47%;
+        top: 40%;
         left: 77%;
         transform: translate(-50%, -50%);
         width: 1500px;
@@ -1141,6 +1141,7 @@ p{
 @media (max-width: 480px) {
     
 }
+
 
 
 
