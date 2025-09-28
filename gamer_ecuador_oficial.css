@@ -1,20 +1,4 @@
-html{
-    background-color: #55883B;
-}
 
-.logo{
-    width: 100px;
-    margin-left: 50px;
-}
-
-h1{
-    color: #ffff;
-    font-style: oblique;
-}
-
-h2{
-    color: #ffff;
-    font-style: oblique;
 }
 
 h3{
@@ -1269,6 +1253,7 @@ p{
 @media (max-width: 480px) {
     
 }
+
 
 
 
