@@ -1164,6 +1164,102 @@ p{
         margin-left: 450px;
     }
 
+    .description-products h1{
+        font-size: 90px;
+        text-align: justify;
+        margin-top: -100px;
+        margin-right: 80px;
+    }
+
+
+    .expecificaciones{
+        margin-top: 800px;
+        margin-left: 100px;
+        margin-right: -500px;
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .descuento{
+        margin-left: 550px;
+        font-size: 100px;
+    }
+
+    .caracter{
+        font-size: 45px;
+        text-align: center;
+    }
+
+    .envios{
+        margin-top: 50px;
+        margin-left: 175px;
+        width: 1100px;
+        height: 1500px;
+        font-size: 35px;
+    }
+
+    .description-products{
+        display: block;
+        margin-left: 50px;
+        margin-right: -530px;
+        text-align: center;
+        margin-top: -150px;
+    }
+
+    .description-products h1{
+        font-size: 100px;
+        padding-top: 80px;
+        text-align: center;
+    }
+
+
+    .contenedor_producto .img_contenedor_producto .main_img{
+        width: 90%;
+        height: 100%;
+        border-radius: 27px;
+        box-shadow: 0 5px 5px #C1E899;
+        margin-left: 27px;
+        object-fit: cover;
+        margin-left:400px;
+    }
+    
+    .contenedor_producto .thumbnail_contenedor{
+        width: 80px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-top: -670px;
+        margin-left: 100px;
+    }
+    
+    
+    .contenedor_producto .thumbnail_contenedor .thumbnail{
+        width: 200px;
+        height: 200px;
+        border-radius: 27px;
+        cursor: pointer;
+        object-fit: cover;
+        opacity: .7;
+        transition: .3s;
+        margin-left: 50px;
+    }
+    
+    
+    .active {
+        opacity:  !important;
+        box-shadow: 0px 5px 5px rgb(0, 0, 0);
+    }
+    
+    .contenedor-producto .thumbnail_contenedor .thumbnail:hover{
+        opacity: 1;
+    }
+
+
+
+    .thumbnail_contenedor .thumbnail{
+        margin-top: -440px;
+    }
+
 }
 
 @media (max-width: 768px) {
@@ -1173,18 +1269,6 @@ p{
 @media (max-width: 480px) {
     
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
