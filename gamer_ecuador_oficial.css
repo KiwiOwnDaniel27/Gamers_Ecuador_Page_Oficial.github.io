@@ -1,4 +1,20 @@
+html{
+    background-color: #55883B;
+}
 
+.logo{
+    width: 100px;
+    margin-left: 50px;
+}
+
+h1{
+    color: #ffff;
+    font-style: oblique;
+}
+
+h2{
+    color: #ffff;
+    font-style: oblique;
 }
 
 h3{
@@ -1164,6 +1180,42 @@ p{
         text-align: center;
     }
 
+    .expecificacionees{
+        margin-top: 800px;
+        margin-left: 100px;
+        margin-right: -500px;
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .expecificacioness{
+        margin-top: 800px;
+        margin-left: 100px;
+        margin-right: -500px;
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .expecificacionesss{
+        margin-top: 150px;
+        margin-left: 100px;
+        margin-right: -500px;
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .expecificacionessss{
+        margin-top: 325px;
+        margin-left: 100px;
+        margin-right: -500px;
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .expecificacionees{
+        margin-top: 100px;
+    }
+
     .descuento{
         margin-left: 550px;
         font-size: 100px;
@@ -1176,6 +1228,46 @@ p{
 
     .envios{
         margin-top: 50px;
+        margin-left: 175px;
+        width: 1100px;
+        height: 1500px;
+        font-size: 35px;
+    }
+
+    .envioos{
+        margin-top: -700px;
+        margin-left: 175px;
+        width: 1100px;
+        height: 1500px;
+        font-size: 35px;
+    }
+
+    .envioss{
+        margin-top: 100px;
+        margin-left: 175px;
+        width: 1100px;
+        height: 1500px;
+        font-size: 35px;
+    }
+
+    .enviooos{
+        margin-top: -700px;
+        margin-left: 175px;
+        width: 1100px;
+        height: 1500px;
+        font-size: 35px;
+    }
+
+    .enviios{
+        margin-top: 150px;
+        margin-left: 175px;
+        width: 1100px;
+        height: 1500px;
+        font-size: 35px;
+    }
+
+    .enviooooos{
+        margin-top: 150px;
         margin-left: 175px;
         width: 1100px;
         height: 1500px;
@@ -1196,7 +1288,6 @@ p{
         text-align: center;
     }
 
-
     .contenedor_producto .img_contenedor_producto .main_img{
         width: 90%;
         height: 100%;
@@ -1206,13 +1297,14 @@ p{
         object-fit: cover;
         margin-left:400px;
     }
+
     
     .contenedor_producto .thumbnail_contenedor{
         width: 80px;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        margin-top: -670px;
+        margin-top: -1100px;
         margin-left: 100px;
     }
     
@@ -1241,8 +1333,13 @@ p{
 
 
     .thumbnail_contenedor .thumbnail{
-        margin-top: -440px;
+        margin-top: -0px;
     }
+
+
+    
+
+
 
 }
 
@@ -1253,8 +1350,6 @@ p{
 @media (max-width: 480px) {
     
 }
-
-
 
 
 
